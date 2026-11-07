@@ -1,3 +1,6 @@
+<!-- Links-->
+[change_log]: CHANGELOG.md
+
 # customOS
 
 <p align="center">
@@ -17,6 +20,8 @@ customOS is a hobby operating system project developed in C# using [Cosmos Gen3]
 The goal of this project is to explore operating system development, hardware interaction, kernel programming and eventually build a complete operating system with its own command-line interface and graphical environment.
 
 customOS currently features a custom boot screen, an interactive terminal, basic commands, CPU detection and system information.
+
+See the [Changelog][change_log] for the newest features.
 
 ## Features
 
@@ -57,12 +62,6 @@ customOS currently supports the following commands:
 | `reboot` | Restarts the computer. |
 | `shutdown` | Shuts down the computer. |
 | `exit` | Alias for shutdown. |
-
-### Calculator examples
-
-```text
-customOS> calc 10 + 5
-Result: 15
 
 customOS> calc 100 * 2
 Result: 200
