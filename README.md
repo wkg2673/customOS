@@ -8,7 +8,8 @@
 **A tiny hobby operating system written in C# using Cosmos Gen3.**
 
 </p>
-<img width="464" height="291" alt="image" src="https://github.com/user-attachments/assets/d9f39d40-0faa-4344-85bf-8e937929c20c" />
+<img width="464" height="291" alt="image" src="https://github.com/user-attachments/assets/301155ef-5359-4ac5-9de2-9dc0dbb6f217" />
+
 <img width="464" height="291" alt="image" src="https://github.com/user-attachments/assets/7beeac3c-82ef-4f09-9a9e-f30c84437c5c" />
 
 
