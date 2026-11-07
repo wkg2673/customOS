@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+# Temporary files
+*.user
+*.suo
+*.log
+
+# Generated images
+*.iso
+*.img
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
