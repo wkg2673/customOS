@@ -1,4 +1,5 @@
 <!-- List of versions-->
+[1.2.0]: https://github.com/wkg2673/customOS/releases/tag/v1.2.0
 [1.1.0]: https://github.com/wkg2673/customOS/releases/tag/v1.1.0
 [1.0.0]: https://github.com/wkg2673/customOS/releases/tag/v1.0.0
 
@@ -7,6 +8,47 @@
 All notable changes to customOS are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+
+## [1.2.0] - 2026-11-07
+
+### Added
+- Notepad application for writing and editing text.
+- Terminal application for command-line interaction.
+- File Manager application for browsing and managing files.
+- System Monitor application for viewing system information.
+- Calculator application for performing calculations.
+- Clock application for viewing the current time.
+- About customOS application displaying operating system information.
+- Expanded Settings application with new customization options:
+  - Wallpaper settings for desktop customization.
+  - Option to enable or disable clock seconds in the taskbar.
+  - Accent Color customization.
+  - Mouse Sensitivity adjustment.
+
+### Improved
+- Improved the graphical desktop layout and overall appearance.
+- Enhanced the desktop user experience.
+- Improved desktop interaction and usability.
+- Expanded the built-in application ecosystem.
+- Improved system customization through the Settings application.
+- Further developed the graphical desktop environment into a more complete operating system experience.
+
+### Technical Details
+- Continued development in C#.
+- Built using Cosmos Gen3.
+- Targets x86-64 architecture.
+- Uses .NET 10 SDK.
+- Supports execution in QEMU.
+
+### Known Limitations
+- Some graphical applications may still have limited functionality.
+- Filesystem support is incomplete.
+- Physical RAM detection and reporting are not yet fully implemented.
+- Networking is currently limited to basic adapter information.
+- Limited hardware and driver support.
+- Hardware compatibility is not guaranteed.
+
+---
 
 ## [1.1.0] - 2026-11-07
 
