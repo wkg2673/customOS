@@ -7,8 +7,6 @@
 
 **A tiny hobby operating system written in C# using Cosmos Gen3.**
 
-*Built from curiosity, one line of code at a time.*
-
 </p>
 
 ---
