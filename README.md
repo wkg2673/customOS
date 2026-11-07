@@ -18,7 +18,7 @@
 ---
 
 ## Installation
-Either go to the [Releases][RLS] tab to download the ISO OR use Cosmos to compile the code yourself(use `cosmos build`).
+Go to the [Releases][RLS] tab to download the ISO.
 
 ## About
 
