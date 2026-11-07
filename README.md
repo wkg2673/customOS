@@ -37,6 +37,7 @@ See the [Changelog][change_log] for the newest features.
 - Date and time display.
 - Reboot functionality.
 - Shutdown functionality.
+- Windows key toggles the Start menu.
 
 ## Screenshots
 
