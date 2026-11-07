@@ -19,12 +19,13 @@ customOS is a hobby operating system project developed in C# using [Cosmos Gen3]
 
 The goal of this project is to explore operating system development, hardware interaction, kernel programming and eventually build a complete operating system with its own command-line interface and graphical environment.
 
-customOS currently features a custom boot screen, an interactive terminal, basic commands, CPU detection and system information.
+customOS currently features a custom boot screen, an interactive terminal, basic commands, CPU detection, system information and a simple GUI dekstop.
 
 See the [Changelog][change_log] for the newest features.
 
 ## Features
 
+- Graphical desktop(early development).
 - Custom ASCII boot logo.
 - Interactive command-line interface.
 - Command history.
@@ -48,23 +49,18 @@ customOS currently supports the following commands:
 |---|---|
 | `help` | Displays all available commands. |
 | `about` | Shows information about customOS and its creator. |
+| `gui` | Launches into the Graphical Desktop. |
 | `clear` | Clears the terminal screen. |
 | `echo <text>` | Prints the specified text. |
 | `time` | Displays the current system time. |
 | `date` | Displays the current date. |
-| `uptime` | Shows system uptime. |
+| `uptime` | Shows how long customOS has been running. |
 | `history` | Displays previously executed commands. |
 | `version` | Displays the customOS version. |
 | `whoami` | Displays the current username. |
 | `commands` | Shows the number of executed commands. |
-| `calc <a> <op> <b>` | Performs basic calculations. |
+| `calc <a> <op> <b>` | Performs basic calculations (`+`, `-`, `*`, `/`). |
 | `sysinfo` | Displays system and processor information. |
 | `reboot` | Restarts the computer. |
 | `shutdown` | Shuts down the computer. |
-| `exit` | Alias for shutdown. |
-
-customOS> calc 100 * 2
-Result: 200
-
-customOS> calc 50 / 5
-Result: 10
+| `exit` | Alias for `shutdown`. |
