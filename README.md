@@ -27,7 +27,7 @@ See the [Changelog][change_log] for the newest features.
 
 ## Features
 
-- Graphical desktop(early development).
+- Graphical desktop(early development).(Already a bit better in v1.2.0)
 - Custom ASCII boot logo.
 - Interactive command-line interface.
 - Command history.
@@ -39,6 +39,7 @@ See the [Changelog][change_log] for the newest features.
 - Reboot functionality.
 - Shutdown functionality.
 - Windows key toggles the Start menu.
+- Settings include Wallpaper, clock seconds(taskbar), Accent Color and Mouse Sensitivity from v1.2.0 on.
 
 ## Screenshots
 
