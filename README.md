@@ -46,10 +46,6 @@ See the [Changelog][change_log] for the newest features.
 - Windows key toggles the Start menu.
 - Settings include Wallpaper, clock seconds(taskbar), Accent Color and Mouse Sensitivity from v1.2.0 on.
 
-## Screenshots
-
-*Screenshots coming soon!*
-
 ## Commands
 
 customOS currently supports the following commands:
