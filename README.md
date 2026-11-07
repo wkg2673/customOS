@@ -1,5 +1,6 @@
 <!-- Links-->
 [change_log]: CHANGELOG.md
+[RLS]: https://github.com/wkg2673/customOS/releases/latest
 
 # customOS
 
@@ -15,6 +16,9 @@
 
 
 ---
+
+## Installation
+Either go to the [Releases][RLS] tab to download the ISO OR use Cosmos to compile the code yourself(use `cosmos build`).
 
 ## About
 
