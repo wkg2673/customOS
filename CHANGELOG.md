@@ -22,6 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   - System Monitor
   - Settings
 - Graphical terminal with command input and execution.
+- Windows key toggles the Start menu.
 - Basic storage device and partition information support.
 - Basic network adapter information support.
 
