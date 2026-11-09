@@ -1,5 +1,5 @@
 <!-- Links-->
-[change_log]: CHANGELOG.md
+[changelog]: CHANGELOG.md
 [RLS]: https://github.com/wkg2673/customOS/releases/latest
 
 # customOS
@@ -28,4 +28,4 @@ The goal of this project is to explore operating system development, hardware in
 
 customOS currently features a custom boot screen, an interactive terminal, basic commands, CPU detection, system information and a simple GUI dekstop.
 
-See the [Changelog][change_log] for the newest features and commands!
+See the [Changelog][changelog] for the newest features and commands!
