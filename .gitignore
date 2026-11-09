@@ -1,6 +1,7 @@
 # Build output
 bin/
 obj/
+output-x64/
 
 # IDE files
 .vs/
@@ -11,6 +12,9 @@ obj/
 *.user
 *.suo
 *.log
+*.tmp
+*.ps1
+*.ppm
 
 # Generated images
 *.iso
