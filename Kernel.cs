@@ -1069,7 +1069,7 @@ public class Kernel : Sys.Kernel
 
         DrawText(OS_NAME, Color.White, x + 50, y + 12);
         DrawText(
-            "Hobby OS v" + OS_VERSION,
+            "customOS v" + OS_VERSION,
             Color.FromArgb(220, 230, 245),
             x + 50, y + 32
         );
