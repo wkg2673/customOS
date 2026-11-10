@@ -18,7 +18,7 @@
 ---
 
 ## Installation
-Go to the [Releases][RLS] tab to download the ISO.
+Go to the [Releases][RLS] tab to download the ISO OR use [Cosmos Gen3](https://cosmosos.github.io/) to generate the ISO file yourself(use `cosmos build` command).
 
 ## About
 
