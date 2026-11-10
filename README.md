@@ -9,9 +9,10 @@
 **A tiny hobby operating system written in C# using Cosmos Gen3.**
 
 </p>
-<img width="464" height="291" alt="image" src="https://github.com/user-attachments/assets/301155ef-5359-4ac5-9de2-9dc0dbb6f217" />
+<img width="464" height="291" alt="image" src="https://github.com/user-attachments/assets/b7837f2f-bf43-4773-98e7-4e4fe07f15e2" />
 
-<img width="464" height="291" alt="image" src="https://github.com/user-attachments/assets/9243339c-df59-447a-8025-e170390c9915" />
+
+<img width="464" height="291" alt="image" src="https://github.com/user-attachments/assets/abdaf9a1-a2dc-4748-b5cb-bf53acd93f1d" />
 
 
 
